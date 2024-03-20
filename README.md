@@ -1,6 +1,6 @@
 # vpn-for-everything
 
-[<img src="[<img src="https://github.com/vpnforever/vpn-for-everything/blob/main/README.md"/>]"/>]
+[<img src="https://github.com/vpnforever/vpn-for-everything/blob/main/VPN.png"/>]
 
 KEY
 
